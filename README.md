@@ -103,12 +103,3 @@ Three core deliverables:
 - Join the OSEAS Discord server: <https://community.oseas.org/>
 - Introduce yourself in the `#introductions` channel and join the relevant
   channels for this challenge.
-- For physical participants: bring a computer (and required adapters) for some
-  hacking.
-- Read the documentation:
-  - [Energy Access Explorer](https://www.energyaccessexplorer.org)
-  - [EAE GitHub](https://github.com/energyaccessexplorer)
-  - [EAE Technical Note](https://www.wri.org/research/energy-access-explorer-data-and-methods?ap3c=IGaj6AgspJqgeKwBAGaj6AgmzCZ5Iv70Fr7H6ahniwtFr1FOgg)
-
-We will provide examples of user queries with expected output (as training
-datasets) to the registered participants.
